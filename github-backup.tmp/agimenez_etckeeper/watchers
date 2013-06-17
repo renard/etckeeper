@@ -1,0 +1,134 @@
+[ GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/12a68a617d183d850b56aef304751d5d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "cbrace"
+    , githubOwnerUrl = "https://api.github.com/users/cbrace"
+    , githubOwnerId = 449948
+    , githubOwnerGravatarId = "12a68a617d183d850b56aef304751d5d"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/17ebc5bf9deb694e936a785686be6773?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "parsingphase"
+    , githubOwnerUrl = "https://api.github.com/users/parsingphase"
+    , githubOwnerId = 867994
+    , githubOwnerGravatarId = "17ebc5bf9deb694e936a785686be6773"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/201bc534b68afd93f7474a96a911effe?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "aeris"
+    , githubOwnerUrl = "https://api.github.com/users/aeris"
+    , githubOwnerId = 51246
+    , githubOwnerGravatarId = "201bc534b68afd93f7474a96a911effe"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/2657d61da4eb0db92feeec273eb666c8?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "antwerx"
+    , githubOwnerUrl = "https://api.github.com/users/antwerx"
+    , githubOwnerId = 1238987
+    , githubOwnerGravatarId = "2657d61da4eb0db92feeec273eb666c8"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/3282cdd28e149909c73f2c7ff80f49ea?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "nemith"
+    , githubOwnerUrl = "https://api.github.com/users/nemith"
+    , githubOwnerId = 349360
+    , githubOwnerGravatarId = "3282cdd28e149909c73f2c7ff80f49ea"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/41f8f5a554ac5f45ed880f3882e7a335?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "siwamot"
+    , githubOwnerUrl = "https://api.github.com/users/siwamot"
+    , githubOwnerId = 613853
+    , githubOwnerGravatarId = "41f8f5a554ac5f45ed880f3882e7a335"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/4fe11dd39e16a687cc15ea45d2fbb829?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "stevepereira"
+    , githubOwnerUrl = "https://api.github.com/users/stevepereira"
+    , githubOwnerId = 845874
+    , githubOwnerGravatarId = "4fe11dd39e16a687cc15ea45d2fbb829"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/58d17511dbfa2b472061bf266ec8701a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "ryanfaerman"
+    , githubOwnerUrl = "https://api.github.com/users/ryanfaerman"
+    , githubOwnerId = 218121
+    , githubOwnerGravatarId = "58d17511dbfa2b472061bf266ec8701a"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/5f704d8906159e581639f1428d86c59c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "thejoecarroll"
+    , githubOwnerUrl = "https://api.github.com/users/thejoecarroll"
+    , githubOwnerId = 19154
+    , githubOwnerGravatarId = "5f704d8906159e581639f1428d86c59c"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/615df5eab7a5ffde43ee680ca8d28943?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "fgarcia"
+    , githubOwnerUrl = "https://api.github.com/users/fgarcia"
+    , githubOwnerId = 253157
+    , githubOwnerGravatarId = "615df5eab7a5ffde43ee680ca8d28943"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/62a72977d343bd399dc1d5c9e7bb5b44?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "agimenez"
+    , githubOwnerUrl = "https://api.github.com/users/agimenez"
+    , githubOwnerId = 263354
+    , githubOwnerGravatarId = "62a72977d343bd399dc1d5c9e7bb5b44"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/630af0d2e912fb8b3e755fb166631fc0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "berkes"
+    , githubOwnerUrl = "https://api.github.com/users/berkes"
+    , githubOwnerId = 77059
+    , githubOwnerGravatarId = "630af0d2e912fb8b3e755fb166631fc0"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/6d66e375100963cd47f560de533d547b?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "fmrl"
+    , githubOwnerUrl = "https://api.github.com/users/fmrl"
+    , githubOwnerId = 630620
+    , githubOwnerGravatarId = "6d66e375100963cd47f560de533d547b"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/8bbe5809db7d4f306e47f36e244736d1?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "daniel-kullmann"
+    , githubOwnerUrl = "https://api.github.com/users/daniel-kullmann"
+    , githubOwnerId = 798833
+    , githubOwnerGravatarId = "8bbe5809db7d4f306e47f36e244736d1"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/af0c0f7a4f356a77760c07aaaccb4d2d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "cgar"
+    , githubOwnerUrl = "https://api.github.com/users/cgar"
+    , githubOwnerId = 979352
+    , githubOwnerGravatarId = "af0c0f7a4f356a77760c07aaaccb4d2d"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/bfb760aedd371df9b0cabd54eba50779?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "oneshoturdone"
+    , githubOwnerUrl = "https://api.github.com/users/oneshoturdone"
+    , githubOwnerId = 189116
+    , githubOwnerGravatarId = "bfb760aedd371df9b0cabd54eba50779"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "drphitheta"
+    , githubOwnerUrl = "https://api.github.com/users/drphitheta"
+    , githubOwnerId = 1653529
+    , githubOwnerGravatarId = "d41d8cd98f00b204e9800998ecf8427e"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/e5215f0bc7dc90e3ba544ceedb895cd0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "alick9188"
+    , githubOwnerUrl = "https://api.github.com/users/alick9188"
+    , githubOwnerId = 933935
+    , githubOwnerGravatarId = "e5215f0bc7dc90e3ba544ceedb895cd0"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://secure.gravatar.com/avatar/f2d518d4f5d94432965c3648b5934d7f?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+    , githubOwnerLogin = "lolnameless"
+    , githubOwnerUrl = "https://api.github.com/users/lolnameless"
+    , githubOwnerId = 377652
+    , githubOwnerGravatarId = "f2d518d4f5d94432965c3648b5934d7f"
+    }
+]
