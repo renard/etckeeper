@@ -1,0 +1,23 @@
+#!/bin/sh
+
+SENDMAIL=$(which sendmail)
+
+if [ -n "$MAIL_RECIPIENT" ] || [ -n "$MAIL_SENDER" ]; then
+    if [ -z "$MAIL_RECIPIENT" ] ; then
+	MAIL_RECIPIENT=$MAIL_SENDER
+    fi
+    if [ -z "$MAIL_SENDER" ] ; then
+	MAIL_SENDER=$MAIL_RECIPIENT
+    fi
+    if [ "$VCS" = git ] && [ -d .git ] && [ -n "$SENDMAIL" ]; then
+	git format-patch --stdout --attach --subject-prefix="`hostname`" \
+	    --to=$MAIL_RECIPIENT HEAD@{1}..HEAD \
+	    --add-header "X-Git-Host: `hostname`" \
+	    --add-header "X-Git-FQDN: `hostname --fqdn`" \
+	    --add-header "X-Git-Type: etckeeper" | \
+	    sed "1d; 2s/^\(From: .\+\) <.*>/\1 on `hostname` <$MAIL_SENDER>/" | \
+	    $SENDMAIL -t || true
+    else
+	echo "PUSH_REMOTE not yet supported for $VCS or sendmail not found" >&2
+    fi
+fi

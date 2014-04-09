@@ -59,6 +59,14 @@ if [ ! -z "$PUSH_REMOTE" ]; then
 	export PUSH_REMOTE
 fi
 
+if [ ! -z "$MAIL_RECIPIENT" ]; then
+	export MAIL_RECIPIENT
+fi
+
+if [ ! -z "$MAIL_SENDER" ]; then
+	export MAIL_SENDER
+fi
+
 if [ -z "$1" ]; then
 	usage
 elif [ "x$1" = "x-h" ] || [ "x$1" = "x--help" ]; then
